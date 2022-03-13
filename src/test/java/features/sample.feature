@@ -3,6 +3,7 @@ Feature: Hello world feature
 Scenario: Hello world scenario
     * print 'hello world'
     * print "Go go og"
+    * print someUrlBase
 
 Scenario: declare and print variable
     * def balance = 20
